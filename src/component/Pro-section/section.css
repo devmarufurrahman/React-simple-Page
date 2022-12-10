@@ -1,0 +1,31 @@
+.pro-section-main{
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+    
+}
+.pro-section-main img{
+    width: 100%;
+    height: auto;
+}
+.first-section{
+    background-color: blueviolet;
+    color: #ffffff;
+    border: 2px solid black; 
+    border-radius: 0.5rem; 
+    width: 50%;
+}
+.second-section{
+    background-color: brown;
+    color: #ffffff;
+    border: 2px solid black; 
+    border-radius: 0.5rem; 
+    width: 50%;
+}
+.section p{
+    text-align: justify;
+}
+.section{
+    padding: 1rem;
+    
+}
