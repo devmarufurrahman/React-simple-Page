@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-simple-Page/static/css/main.03bc914a.css",
+    "main.js": "/React-simple-Page/static/js/main.d5831913.js",
+    "static/js/787.fe233384.chunk.js": "/React-simple-Page/static/js/787.fe233384.chunk.js",
+    "static/media/product.jpg": "/React-simple-Page/static/media/product.88648fc066abe3f0bfbb.jpg",
+    "static/media/banner.jpg": "/React-simple-Page/static/media/banner.4c9d712c007498af4224.jpg",
+    "static/media/shoes.jpg": "/React-simple-Page/static/media/shoes.1c1407e30602229348ec.jpg",
+    "static/media/cold.jpg": "/React-simple-Page/static/media/cold.9a25483d48dd0b8e9b67.jpg",
+    "static/media/logo.svg": "/React-simple-Page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-simple-Page/index.html",
+    "main.03bc914a.css.map": "/React-simple-Page/static/css/main.03bc914a.css.map",
+    "main.d5831913.js.map": "/React-simple-Page/static/js/main.d5831913.js.map",
+    "787.fe233384.chunk.js.map": "/React-simple-Page/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03bc914a.css",
+    "static/js/main.d5831913.js"
+  ]
+}
